@@ -2984,7 +2984,7 @@
   "items": [
     {
       "name": "Echinoderes abbreviatus",
-      "abbrev": null,
+      "abbrev": "Eabbrevi",
       "attributes": {
         "1": [
           1
@@ -3116,6 +3116,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -3292,7 +3295,7 @@
     },
     {
       "name": "Echinoderes abeli",
-      "abbrev": null,
+      "abbrev": "Eabeli",
       "attributes": {
         "1": [
           1
@@ -3424,6 +3427,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -3622,7 +3628,7 @@
     },
     {
       "name": "Echinoderes adrianovi",
-      "abbrev": null,
+      "abbrev": "Eadriano",
       "attributes": {
         "1": [
           1
@@ -3863,7 +3869,20 @@
         ]
       },
       "media": {
-        "images": [],
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EadrianoviGEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EadrianoviHAB.gif"
+          },
+          {
+            "label": "Habitus 2",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EadrianoviHAB2.gif"
+          }
+        ],
         "info": [
           {
             "label": "Info",
@@ -3874,7 +3893,7 @@
     },
     {
       "name": "Echinoderes ahlfeldae",
-      "abbrev": null,
+      "abbrev": "Eahlfeld",
       "attributes": {
         "1": [
           1
@@ -4130,7 +4149,7 @@
     },
     {
       "name": "Echinoderes ajax",
-      "abbrev": null,
+      "abbrev": "Eajax",
       "attributes": {
         "1": [
           1
@@ -4359,7 +4378,7 @@
     },
     {
       "name": "Echinoderes andamanensis",
-      "abbrev": null,
+      "abbrev": "Eandaman",
       "attributes": {
         "1": [
           2
@@ -4566,6 +4585,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -4721,7 +4743,7 @@
     },
     {
       "name": "Echinoderes angelae",
-      "abbrev": null,
+      "abbrev": "Eangelae",
       "attributes": {
         "1": [
           1
@@ -4930,6 +4952,9 @@
         "86": [
           2
         ],
+        "87": [
+          1
+        ],
         "88": [
           1,
           4
@@ -5081,7 +5106,7 @@
     },
     {
       "name": "Echinoderes angustus",
-      "abbrev": null,
+      "abbrev": "Eangustu",
       "attributes": {
         "1": [
           2
@@ -5253,6 +5278,9 @@
         ],
         "86": [
           2
+        ],
+        "87": [
+          1
         ],
         "88": [
           1
@@ -5439,7 +5467,7 @@
     },
     {
       "name": "Echinoderes annae",
-      "abbrev": null,
+      "abbrev": "Eannae",
       "attributes": {
         "1": [
           1
@@ -5645,6 +5673,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -5780,7 +5811,7 @@
     },
     {
       "name": "Echinoderes anniae",
-      "abbrev": null,
+      "abbrev": "Eanniae",
       "attributes": {
         "1": [
           1
@@ -5941,6 +5972,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           2
         ],
@@ -6093,7 +6127,7 @@
     },
     {
       "name": "Echinoderes antalyaensis",
-      "abbrev": null,
+      "abbrev": "Eantalya",
       "attributes": {
         "1": [
           1
@@ -6323,7 +6357,7 @@
     },
     {
       "name": "Echinoderes antarcticus",
-      "abbrev": null,
+      "abbrev": "Eantarct",
       "attributes": {
         "1": [
           1
@@ -6580,7 +6614,7 @@
     },
     {
       "name": "Echinoderes apex",
-      "abbrev": null,
+      "abbrev": "Eapex",
       "attributes": {
         "1": [
           1
@@ -6754,6 +6788,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -6934,7 +6971,7 @@
     },
     {
       "name": "Echinoderes applicitus",
-      "abbrev": null,
+      "abbrev": "Eapplici",
       "attributes": {
         "1": [
           1
@@ -7108,7 +7145,7 @@
     },
     {
       "name": "Echinoderes aquilonius",
-      "abbrev": null,
+      "abbrev": "Eaquilon",
       "attributes": {
         "1": [
           2
@@ -7280,6 +7317,9 @@
         ],
         "86": [
           2
+        ],
+        "87": [
+          1
         ],
         "88": [
           1
@@ -7465,7 +7505,7 @@
     },
     {
       "name": "Echinoderes aragorni",
-      "abbrev": null,
+      "abbrev": "Earagorn",
       "attributes": {
         "1": [
           1
@@ -7689,6 +7729,10 @@
         "86": [
           1
         ],
+        "87": [
+          1,
+          2
+        ],
         "88": [
           1
         ],
@@ -7834,7 +7878,7 @@
     },
     {
       "name": "Echinoderes arlis",
-      "abbrev": null,
+      "abbrev": "Earlis",
       "attributes": {
         "1": [
           1
@@ -7966,6 +8010,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -8147,7 +8194,7 @@
     },
     {
       "name": "Echinoderes aspinosus",
-      "abbrev": null,
+      "abbrev": "Easpinos",
       "attributes": {
         "1": [
           1
@@ -8259,6 +8306,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -8379,7 +8429,7 @@
     },
     {
       "name": "Echinoderes astridae",
-      "abbrev": null,
+      "abbrev": "Eastrida",
       "attributes": {
         "1": [
           1
@@ -8511,6 +8561,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -8683,7 +8736,7 @@
     },
     {
       "name": "Echinoderes augustae",
-      "abbrev": null,
+      "abbrev": "Eaugusta",
       "attributes": {
         "1": [
           1
@@ -8815,6 +8868,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -9015,7 +9071,7 @@
     },
     {
       "name": "Echinoderes aureus",
-      "abbrev": null,
+      "abbrev": "Eaureus",
       "attributes": {
         "1": [
           2
@@ -9295,7 +9351,7 @@
     },
     {
       "name": "Echinoderes australis",
-      "abbrev": null,
+      "abbrev": "Eaustral",
       "attributes": {
         "1": [
           1
@@ -9539,7 +9595,7 @@
     },
     {
       "name": "Echinoderes balerioni",
-      "abbrev": null,
+      "abbrev": "Ebalerio",
       "attributes": {
         "1": [
           1
@@ -9792,7 +9848,7 @@
     },
     {
       "name": "Echinoderes barbadensis",
-      "abbrev": null,
+      "abbrev": "Ebarbade",
       "attributes": {
         "1": [
           1
@@ -9942,6 +9998,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -10130,7 +10189,7 @@
     },
     {
       "name": "Echinoderes bathyalis",
-      "abbrev": null,
+      "abbrev": "Ebathyal",
       "attributes": {
         "1": [
           1
@@ -10267,6 +10326,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -10449,7 +10511,7 @@
     },
     {
       "name": "Echinoderes belenae",
-      "abbrev": null,
+      "abbrev": "Ebelenae",
       "attributes": {
         "1": [
           1
@@ -10581,6 +10643,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -10792,7 +10857,7 @@
     },
     {
       "name": "Echinoderes bengalensis",
-      "abbrev": null,
+      "abbrev": "Ebengale",
       "attributes": {
         "1": [
           1
@@ -10965,7 +11030,7 @@
     },
     {
       "name": "Echinoderes beringiensis",
-      "abbrev": null,
+      "abbrev": "Eberingi",
       "attributes": {
         "1": [
           1
@@ -11118,6 +11183,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -11301,7 +11369,7 @@
     },
     {
       "name": "Echinoderes bermudensis",
-      "abbrev": null,
+      "abbrev": "Ebermude",
       "attributes": {
         "1": [
           1
@@ -11545,7 +11613,7 @@
     },
     {
       "name": "Echinoderes bispinosus",
-      "abbrev": null,
+      "abbrev": "Ebispino",
       "attributes": {
         "1": [
           1
@@ -11677,6 +11745,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -11850,7 +11921,7 @@
     },
     {
       "name": "Echinoderes blazeji",
-      "abbrev": null,
+      "abbrev": "Eblazeji",
       "attributes": {
         "1": [
           1
@@ -11961,6 +12032,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -12096,7 +12170,7 @@
     },
     {
       "name": "Echinoderes bookhouti",
-      "abbrev": null,
+      "abbrev": "Ebookhou",
       "attributes": {
         "1": [
           1
@@ -12231,6 +12305,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -12416,7 +12493,7 @@
     },
     {
       "name": "Echinoderes brevicaudatus",
-      "abbrev": null,
+      "abbrev": "Ebrevica",
       "attributes": {
         "1": [
           1,
@@ -12587,6 +12664,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1,
           5
@@ -12751,7 +12831,16 @@
         ]
       },
       "media": {
-        "images": [],
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EbrevicaudatusGEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EbrevicaudatusHAB.gif"
+          }
+        ],
         "info": [
           {
             "label": "Info",
@@ -12762,7 +12851,7 @@
     },
     {
       "name": "Echinoderes brevipes",
-      "abbrev": null,
+      "abbrev": "Ebrevipe",
       "attributes": {
         "1": [
           1
@@ -12894,6 +12983,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -13065,7 +13157,7 @@
     },
     {
       "name": "Echinoderes cantabricus",
-      "abbrev": null,
+      "abbrev": "Ecantabr",
       "attributes": {
         "1": [
           1
@@ -13297,7 +13389,7 @@
     },
     {
       "name": "Echinoderes capitatus",
-      "abbrev": null,
+      "abbrev": "Ecapitat",
       "attributes": {
         "1": [
           1
@@ -13554,7 +13646,7 @@
     },
     {
       "name": "Echinoderes caribiensis",
-      "abbrev": null,
+      "abbrev": "Ecaribie",
       "attributes": {
         "1": [
           1
@@ -13729,7 +13821,7 @@
     },
     {
       "name": "Echinoderes cavernus",
-      "abbrev": null,
+      "abbrev": "Ecavernu",
       "attributes": {
         "1": [
           1
@@ -13941,6 +14033,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           5
         ],
@@ -14125,7 +14220,7 @@
     },
     {
       "name": "Echinoderes cernunnos",
-      "abbrev": null,
+      "abbrev": "Ecernunn",
       "attributes": {
         "1": [
           1
@@ -14296,6 +14391,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -14481,7 +14579,7 @@
     },
     {
       "name": "Echinoderes chandrasekharai",
-      "abbrev": null,
+      "abbrev": "Echandra",
       "attributes": {
         "1": [
           1
@@ -14616,6 +14714,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -14817,7 +14918,7 @@
     },
     {
       "name": "Echinoderes charlotteae",
-      "abbrev": null,
+      "abbrev": "Echarlot",
       "attributes": {
         "1": [
           1
@@ -14949,6 +15050,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -15122,7 +15226,7 @@
     },
     {
       "name": "Echinoderes citrinus",
-      "abbrev": null,
+      "abbrev": "Ecitrinu",
       "attributes": {
         "1": [
           2
@@ -15336,7 +15440,7 @@
     },
     {
       "name": "Echinoderes collinae",
-      "abbrev": null,
+      "abbrev": "Ecollina",
       "attributes": {
         "1": [
           1
@@ -15471,6 +15575,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -15652,7 +15759,7 @@
     },
     {
       "name": "Echinoderes coulli",
-      "abbrev": null,
+      "abbrev": "Ecoulli",
       "attributes": {
         "1": [
           1
@@ -15870,6 +15977,9 @@
         "86": [
           2
         ],
+        "87": [
+          1
+        ],
         "88": [
           4
         ],
@@ -15974,7 +16084,7 @@
     },
     {
       "name": "Echinoderes crux",
-      "abbrev": null,
+      "abbrev": "Ecrux",
       "attributes": {
         "1": [
           1
@@ -16221,6 +16331,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -16393,7 +16506,7 @@
     },
     {
       "name": "Echinoderes cyaneafictus",
-      "abbrev": null,
+      "abbrev": "Ecyaneaf",
       "attributes": {
         "1": [
           1
@@ -16600,7 +16713,7 @@
     },
     {
       "name": "Echinoderes daenerysae",
-      "abbrev": null,
+      "abbrev": "Edaenery",
       "attributes": {
         "1": [
           1
@@ -16860,7 +16973,7 @@
     },
     {
       "name": "Echinoderes dalzottoi",
-      "abbrev": null,
+      "abbrev": "Edalzott",
       "attributes": {
         "1": [
           1
@@ -17111,7 +17224,7 @@
     },
     {
       "name": "Echinoderes dejesusi",
-      "abbrev": null,
+      "abbrev": "Edejesus",
       "attributes": {
         "1": [
           1
@@ -17374,7 +17487,7 @@
     },
     {
       "name": "Echinoderes delaordeni",
-      "abbrev": null,
+      "abbrev": "Edelaord",
       "attributes": {
         "1": [
           1
@@ -17604,6 +17717,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1,
           3,
@@ -17799,7 +17915,7 @@
     },
     {
       "name": "Echinoderes drogoni",
-      "abbrev": null,
+      "abbrev": "Edrogoni",
       "attributes": {
         "1": [
           1
@@ -17953,6 +18069,9 @@
         ],
         "86": [
           2
+        ],
+        "87": [
+          1
         ],
         "88": [
           1
@@ -18140,7 +18259,7 @@
     },
     {
       "name": "Echinoderes dubiosus",
-      "abbrev": null,
+      "abbrev": "Edubiosu",
       "attributes": {
         "1": [
           1
@@ -18254,6 +18373,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -18440,7 +18562,7 @@
     },
     {
       "name": "Echinoderes dujardinii",
-      "abbrev": null,
+      "abbrev": "Edujardi",
       "attributes": {
         "1": [
           1
@@ -18575,6 +18697,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -18780,7 +18905,7 @@
     },
     {
       "name": "Echinoderes eximus",
-      "abbrev": null,
+      "abbrev": "Eeximus",
       "attributes": {
         "1": [
           1,
@@ -18911,6 +19036,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -19072,7 +19200,7 @@
     },
     {
       "name": "Echinoderes ferrugineus",
-      "abbrev": null,
+      "abbrev": "Eferrugi",
       "attributes": {
         "1": [
           1,
@@ -19244,6 +19372,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -19430,7 +19561,7 @@
     },
     {
       "name": "Echinoderes filispinosus",
-      "abbrev": null,
+      "abbrev": "Efilispi",
       "attributes": {
         "1": [
           1
@@ -19592,7 +19723,7 @@
     },
     {
       "name": "Echinoderes frodoi",
-      "abbrev": null,
+      "abbrev": "Efrodoi",
       "attributes": {
         "1": [
           1
@@ -19851,7 +19982,7 @@
     },
     {
       "name": "Echinoderes gama",
-      "abbrev": null,
+      "abbrev": "Egama",
       "attributes": {
         "1": [
           1
@@ -19962,6 +20093,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -20128,7 +20262,7 @@
     },
     {
       "name": "Echinoderes galadrielae",
-      "abbrev": null,
+      "abbrev": "Egaladri",
       "attributes": {
         "1": [
           1
@@ -20281,6 +20415,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -20464,7 +20601,7 @@
     },
     {
       "name": "Echinoderes gandalfi",
-      "abbrev": null,
+      "abbrev": "Egandalf",
       "attributes": {
         "1": [
           1
@@ -20717,7 +20854,7 @@
     },
     {
       "name": "Echinoderes gerardi",
-      "abbrev": null,
+      "abbrev": "Egerardi",
       "attributes": {
         "1": [
           1
@@ -20852,6 +20989,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -21057,7 +21197,7 @@
     },
     {
       "name": "Echinoderes gizoensis",
-      "abbrev": null,
+      "abbrev": "Egizoens",
       "attributes": {
         "1": [
           1
@@ -21334,7 +21474,7 @@
     },
     {
       "name": "Echinoderes goku",
-      "abbrev": null,
+      "abbrev": "Egoku",
       "attributes": {
         "1": [
           1
@@ -21590,7 +21730,7 @@
     },
     {
       "name": "Echinoderes guianensis",
-      "abbrev": null,
+      "abbrev": "Eguianen",
       "attributes": {
         "1": [
           1
@@ -21776,7 +21916,7 @@
     },
     {
       "name": "Echinoderes hakaiensis",
-      "abbrev": null,
+      "abbrev": "Ehakaien",
       "attributes": {
         "1": [
           1
@@ -22034,7 +22174,7 @@
     },
     {
       "name": "Echinoderes hamiltonorum",
-      "abbrev": null,
+      "abbrev": "Ehamilto",
       "attributes": {
         "1": [
           1
@@ -22202,6 +22342,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -22383,7 +22526,7 @@
     },
     {
       "name": "Echinoderes higginsi",
-      "abbrev": null,
+      "abbrev": "Ehiggins",
       "attributes": {
         "1": [
           1
@@ -22642,7 +22785,7 @@
     },
     {
       "name": "Echinoderes hispanicus",
-      "abbrev": null,
+      "abbrev": "Ehispani",
       "attributes": {
         "1": [
           1
@@ -22901,7 +23044,7 @@
     },
     {
       "name": "Echinoderes horni",
-      "abbrev": null,
+      "abbrev": "Ehorni",
       "attributes": {
         "1": [
           1
@@ -23140,7 +23283,7 @@
     },
     {
       "name": "Echinoderes hviidarum",
-      "abbrev": null,
+      "abbrev": "Ehviidar",
       "attributes": {
         "1": [
           1
@@ -23383,7 +23526,7 @@
     },
     {
       "name": "Echinoderes hwiizaa",
-      "abbrev": null,
+      "abbrev": "Ehwiizaa",
       "attributes": {
         "1": [
           1
@@ -23592,6 +23735,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -23741,7 +23887,7 @@
     },
     {
       "name": "Echinoderes imperforatus",
-      "abbrev": null,
+      "abbrev": "Eimperfo",
       "attributes": {
         "1": [
           1
@@ -23876,6 +24022,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -24081,7 +24230,7 @@
     },
     {
       "name": "Echinoderes inaequalis",
-      "abbrev": null,
+      "abbrev": "Einaequa",
       "attributes": {
         "1": [
           1
@@ -24293,6 +24442,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -24457,7 +24609,7 @@
     },
     {
       "name": "Echinoderes intermedius",
-      "abbrev": null,
+      "abbrev": "Einterme",
       "attributes": {
         "1": [
           1
@@ -24589,6 +24741,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -24768,7 +24923,7 @@
     },
     {
       "name": "Echinoderes isabelae",
-      "abbrev": null,
+      "abbrev": "Eisabela",
       "attributes": {
         "1": [
           1
@@ -25015,7 +25170,7 @@
     },
     {
       "name": "Echinoderes joyceae",
-      "abbrev": null,
+      "abbrev": "Ejoyceae",
       "attributes": {
         "1": [
           1
@@ -25189,6 +25344,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -25368,7 +25526,7 @@
     },
     {
       "name": "Echinoderes juliae",
-      "abbrev": null,
+      "abbrev": "Ejuliae",
       "attributes": {
         "1": [
           1
@@ -25559,6 +25717,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -25743,7 +25904,7 @@
     },
     {
       "name": "Echinoderes kaempfae",
-      "abbrev": null,
+      "abbrev": "Ekaempfa",
       "attributes": {
         "1": [
           1
@@ -25988,7 +26149,7 @@
     },
     {
       "name": "Echinoderes kajiharai",
-      "abbrev": null,
+      "abbrev": "Ekajihar",
       "attributes": {
         "1": [
           1
@@ -26159,6 +26320,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -26333,7 +26497,7 @@
     },
     {
       "name": "Echinoderes kanni",
-      "abbrev": null,
+      "abbrev": "Ekanni",
       "attributes": {
         "1": [
           1
@@ -26599,7 +26763,7 @@
     },
     {
       "name": "Echinoderes kathleenhannae",
-      "abbrev": null,
+      "abbrev": "Ekathlee",
       "attributes": {
         "1": [
           1
@@ -26854,7 +27018,7 @@
     },
     {
       "name": "Echinoderes kohni",
-      "abbrev": null,
+      "abbrev": "Ekohni",
       "attributes": {
         "1": [
           1
@@ -27007,6 +27171,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -27211,7 +27378,7 @@
     },
     {
       "name": "Echinoderes komatsui",
-      "abbrev": null,
+      "abbrev": "Ekomatsu",
       "attributes": {
         "1": [
           1
@@ -27432,6 +27599,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -27549,7 +27719,7 @@
     },
     {
       "name": "Echinoderes koreanus",
-      "abbrev": null,
+      "abbrev": "Ekoreanu",
       "attributes": {
         "1": [
           1
@@ -27750,7 +27920,7 @@
     },
     {
       "name": "Echinoderes kozloffi",
-      "abbrev": null,
+      "abbrev": "Ekozloff",
       "attributes": {
         "1": [
           1
@@ -27885,6 +28055,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -28088,7 +28261,7 @@
     },
     {
       "name": "Echinoderes krishnaswamyi",
-      "abbrev": null,
+      "abbrev": "Ekrishna",
       "attributes": {
         "1": [
           1
@@ -28336,6 +28509,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -28533,7 +28709,7 @@
     },
     {
       "name": "Echinoderes kristenseni",
-      "abbrev": null,
+      "abbrev": "Ekristen",
       "attributes": {
         "1": [
           1
@@ -28665,6 +28841,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -28821,7 +29000,16 @@
         ]
       },
       "media": {
-        "images": [],
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EkristenseniGEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/EkristenseniHAB.gif"
+          }
+        ],
         "info": [
           {
             "label": "Info",
@@ -28832,7 +29020,7 @@
     },
     {
       "name": "Echinoderes landersi",
-      "abbrev": null,
+      "abbrev": "Elanders",
       "attributes": {
         "1": [
           1
@@ -29082,7 +29270,7 @@
     },
     {
       "name": "Echinoderes lapitaorum",
-      "abbrev": null,
+      "abbrev": "Elapitao",
       "attributes": {
         "1": [
           1
@@ -29303,6 +29491,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -29421,7 +29612,7 @@
     },
     {
       "name": "Echinoderes leduci",
-      "abbrev": null,
+      "abbrev": "Eleduci",
       "attributes": {
         "1": [
           1
@@ -29678,7 +29869,7 @@
     },
     {
       "name": "Echinoderes legolasi",
-      "abbrev": null,
+      "abbrev": "Elegolas",
       "attributes": {
         "1": [
           1
@@ -29825,6 +30016,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -30001,7 +30195,7 @@
     },
     {
       "name": "Echinoderes levanderi",
-      "abbrev": null,
+      "abbrev": "Elevande",
       "attributes": {
         "1": [
           2
@@ -30283,7 +30477,7 @@
     },
     {
       "name": "Echinoderes lupherorum",
-      "abbrev": null,
+      "abbrev": "Eluphero",
       "attributes": {
         "1": [
           1
@@ -30436,6 +30630,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -30639,7 +30836,7 @@
     },
     {
       "name": "Echinoderes lusitanicus",
-      "abbrev": null,
+      "abbrev": "Elusitan",
       "attributes": {
         "1": [
           1
@@ -30872,7 +31069,7 @@
     },
     {
       "name": "Echinoderes malakhovi",
-      "abbrev": null,
+      "abbrev": "Emalakho",
       "attributes": {
         "1": [
           1
@@ -31100,7 +31297,7 @@
     },
     {
       "name": "Echinoderes mamaqucha",
-      "abbrev": null,
+      "abbrev": "Emamaquc",
       "attributes": {
         "1": [
           1
@@ -31364,7 +31561,7 @@
     },
     {
       "name": "Echinoderes marthae",
-      "abbrev": null,
+      "abbrev": "Emarthae",
       "attributes": {
         "1": [
           1
@@ -31537,7 +31734,7 @@
     },
     {
       "name": "Echinoderes maxwelli",
-      "abbrev": null,
+      "abbrev": "Emaxwell",
       "attributes": {
         "1": [
           1
@@ -31738,6 +31935,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1,
           4
@@ -31890,7 +32090,7 @@
     },
     {
       "name": "Echinoderes meteorensis",
-      "abbrev": null,
+      "abbrev": "Emeteore",
       "attributes": {
         "1": [
           1
@@ -32004,6 +32204,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -32186,7 +32389,7 @@
     },
     {
       "name": "Echinoderes microaperturus",
-      "abbrev": null,
+      "abbrev": "Emicroap",
       "attributes": {
         "1": [
           1
@@ -32339,6 +32542,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -32544,7 +32750,7 @@
     },
     {
       "name": "Echinoderes multiporus",
-      "abbrev": null,
+      "abbrev": "Emultipo",
       "attributes": {
         "1": [
           1
@@ -32774,6 +32980,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -32964,7 +33173,7 @@
     },
     {
       "name": "Echinoderes multisetosus",
-      "abbrev": null,
+      "abbrev": "Emultise",
       "attributes": {
         "1": [
           1
@@ -33177,7 +33386,7 @@
     },
     {
       "name": "Echinoderes muricatus",
-      "abbrev": null,
+      "abbrev": "Emuricat",
       "attributes": {
         "1": [
           1
@@ -33442,7 +33651,7 @@
     },
     {
       "name": "Echinoderes nataliae",
-      "abbrev": null,
+      "abbrev": "Enatalia",
       "attributes": {
         "1": [
           1
@@ -33556,6 +33765,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -33732,7 +33944,7 @@
     },
     {
       "name": "Echinoderes neospinosus",
-      "abbrev": null,
+      "abbrev": "Eneospin",
       "attributes": {
         "1": [
           1
@@ -33849,6 +34061,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -34039,7 +34254,7 @@
     },
     {
       "name": "Echinoderes newcaledoniensis",
-      "abbrev": null,
+      "abbrev": "Enewcale",
       "attributes": {
         "1": [
           1
@@ -34287,7 +34502,7 @@
     },
     {
       "name": "Echinoderes obtuspinosus",
-      "abbrev": null,
+      "abbrev": "Eobtuspi",
       "attributes": {
         "1": [
           2
@@ -34458,6 +34673,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -34642,7 +34860,7 @@
     },
     {
       "name": "Echinoderes ohtsukai",
-      "abbrev": null,
+      "abbrev": "Eohtsuka",
       "attributes": {
         "1": [
           1
@@ -34858,7 +35076,7 @@
     },
     {
       "name": "Echinoderes okiensis",
-      "abbrev": null,
+      "abbrev": "Eokiensi",
       "attributes": {
         "1": [
           2
@@ -35139,7 +35357,7 @@
     },
     {
       "name": "Echinoderes pacificus",
-      "abbrev": null,
+      "abbrev": "Epacific",
       "attributes": {
         "1": [
           1
@@ -35274,6 +35492,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -35476,7 +35697,7 @@
     },
     {
       "name": "Echinoderes parahorni",
-      "abbrev": null,
+      "abbrev": "Eparahor",
       "attributes": {
         "1": [
           1
@@ -35608,6 +35829,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -35778,7 +36002,7 @@
     },
     {
       "name": "Echinoderes parrai",
-      "abbrev": null,
+      "abbrev": "Eparrai",
       "attributes": {
         "2": [
           1
@@ -36030,7 +36254,7 @@
     },
     {
       "name": "Echinoderes parthenope",
-      "abbrev": null,
+      "abbrev": "Eparthen",
       "attributes": {
         "1": [
           1
@@ -36200,6 +36424,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -36347,7 +36574,7 @@
     },
     {
       "name": "Echinoderes pennaki",
-      "abbrev": null,
+      "abbrev": "Epennaki",
       "attributes": {
         "1": [
           2
@@ -36518,6 +36745,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -36704,7 +36934,7 @@
     },
     {
       "name": "Echinoderes peterseni",
-      "abbrev": null,
+      "abbrev": "Epeterse",
       "attributes": {
         "1": [
           1
@@ -36966,7 +37196,7 @@
     },
     {
       "name": "Echinoderes pilosus",
-      "abbrev": null,
+      "abbrev": "Epilosus",
       "attributes": {
         "1": [
           2
@@ -37119,6 +37349,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -37322,7 +37555,7 @@
     },
     {
       "name": "Echinoderes pterus",
-      "abbrev": null,
+      "abbrev": "Epterus",
       "attributes": {
         "1": [
           1
@@ -37574,7 +37807,7 @@
     },
     {
       "name": "Echinoderes quasae",
-      "abbrev": null,
+      "abbrev": "Equasae",
       "attributes": {
         "1": [
           2
@@ -37746,6 +37979,9 @@
         ],
         "86": [
           2
+        ],
+        "87": [
+          1
         ],
         "88": [
           1
@@ -37926,7 +38162,7 @@
     },
     {
       "name": "Echinoderes regina",
-      "abbrev": null,
+      "abbrev": "Eregina",
       "attributes": {
         "1": [
           1
@@ -38154,6 +38390,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -38304,7 +38543,7 @@
     },
     {
       "name": "Echinoderes reicherti",
-      "abbrev": null,
+      "abbrev": "Ereicher",
       "attributes": {
         "1": [
           1
@@ -38436,6 +38675,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -38606,7 +38848,7 @@
     },
     {
       "name": "Echinoderes remanei",
-      "abbrev": null,
+      "abbrev": "Eremanei",
       "attributes": {
         "1": [
           2
@@ -38777,6 +39019,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -38965,7 +39210,7 @@
     },
     {
       "name": "Echinoderes rex",
-      "abbrev": null,
+      "abbrev": "Erex",
       "attributes": {
         "1": [
           1
@@ -39177,6 +39422,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -39331,7 +39579,7 @@
     },
     {
       "name": "Echinoderes rhaegali",
-      "abbrev": null,
+      "abbrev": "Erhaegal",
       "attributes": {
         "1": [
           1
@@ -39592,7 +39840,7 @@
     },
     {
       "name": "Echinoderes riceae",
-      "abbrev": null,
+      "abbrev": "Ericeae",
       "attributes": {
         "1": [
           1
@@ -39834,7 +40082,7 @@
     },
     {
       "name": "Echinoderes riedli",
-      "abbrev": null,
+      "abbrev": "Eriedli",
       "attributes": {
         "1": [
           1
@@ -40080,7 +40328,7 @@
     },
     {
       "name": "Echinoderes rociae",
-      "abbrev": null,
+      "abbrev": "Erociae",
       "attributes": {
         "1": [
           1
@@ -40212,6 +40460,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -40391,7 +40642,7 @@
     },
     {
       "name": "Echinoderes romanoi",
-      "abbrev": null,
+      "abbrev": "Eromanoi",
       "attributes": {
         "1": [
           1
@@ -40544,6 +40795,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -40732,7 +40986,7 @@
     },
     {
       "name": "Echinoderes samwisei",
-      "abbrev": null,
+      "abbrev": "Esamwisei",
       "attributes": {
         "1": [
           1
@@ -40975,7 +41229,7 @@
     },
     {
       "name": "Echinoderes sanctorum",
-      "abbrev": null,
+      "abbrev": "Esanctor",
       "attributes": {
         "1": [
           1
@@ -41220,6 +41474,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           2,
           3
@@ -41353,7 +41610,7 @@
     },
     {
       "name": "Echinoderes schwieringae",
-      "abbrev": null,
+      "abbrev": "Eschwier",
       "attributes": {
         "1": [
           1
@@ -41562,6 +41819,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           2
         ],
@@ -41757,7 +42017,7 @@
     },
     {
       "name": "Echinoderes semprucciae",
-      "abbrev": null,
+      "abbrev": "Esempruc",
       "attributes": {
         "1": [
           1
@@ -41971,7 +42231,7 @@
     },
     {
       "name": "Echinoderes sensibilis",
-      "abbrev": null,
+      "abbrev": "Esensibi",
       "attributes": {
         "1": [
           1
@@ -42106,6 +42366,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -42311,7 +42574,7 @@
     },
     {
       "name": "Echinoderes serratulus",
-      "abbrev": null,
+      "abbrev": "Eserratu",
       "attributes": {
         "1": [
           1
@@ -42523,6 +42786,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           4
         ],
@@ -42690,7 +42956,7 @@
     },
     {
       "name": "Echinoderes setiger",
-      "abbrev": null,
+      "abbrev": "Esetiger",
       "attributes": {
         "2": [
           2
@@ -42925,7 +43191,7 @@
     },
     {
       "name": "Echinoderes shahmaranae",
-      "abbrev": null,
+      "abbrev": "Eshahmar",
       "attributes": {
         "1": [
           1
@@ -43057,6 +43323,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -43234,7 +43503,7 @@
     },
     {
       "name": "Echinoderes shenlong",
-      "abbrev": null,
+      "abbrev": "Eshenlon",
       "attributes": {
         "1": [
           1
@@ -43495,7 +43764,7 @@
     },
     {
       "name": "Echinoderes skipperae",
-      "abbrev": null,
+      "abbrev": "Eskipper",
       "attributes": {
         "1": [
           1
@@ -43722,7 +43991,7 @@
     },
     {
       "name": "Echinoderes songae",
-      "abbrev": null,
+      "abbrev": "Esongae",
       "attributes": {
         "1": [
           1
@@ -43836,6 +44105,10 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
+          1,
           2
         ],
         "88": [
@@ -44034,7 +44307,7 @@
     },
     {
       "name": "Echinoderes spinifurca",
-      "abbrev": null,
+      "abbrev": "Espinifu",
       "attributes": {
         "1": [
           1
@@ -44322,7 +44595,7 @@
     },
     {
       "name": "Echinoderes stockmani",
-      "abbrev": null,
+      "abbrev": "Estockma",
       "attributes": {
         "1": [
           1
@@ -44556,7 +44829,7 @@
     },
     {
       "name": "Echinoderes strii",
-      "abbrev": null,
+      "abbrev": "Estrii",
       "attributes": {
         "1": [
           1
@@ -44745,7 +45018,7 @@
     },
     {
       "name": "Echinoderes sublicarum",
-      "abbrev": null,
+      "abbrev": "Esublica",
       "attributes": {
         "1": [
           1
@@ -44880,6 +45153,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -45079,7 +45355,7 @@
     },
     {
       "name": "Echinoderes sylviae",
-      "abbrev": null,
+      "abbrev": "Esylviae",
       "attributes": {
         "1": [
           1
@@ -45214,6 +45490,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -45423,7 +45702,7 @@
     },
     {
       "name": "Echinoderes tchefouensis",
-      "abbrev": null,
+      "abbrev": "Etchefou",
       "attributes": {
         "1": [
           2
@@ -45552,6 +45831,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -45708,7 +45990,7 @@
     },
     {
       "name": "Echinoderes teretis",
-      "abbrev": null,
+      "abbrev": "Eteretis",
       "attributes": {
         "1": [
           1
@@ -45935,6 +46217,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           5
         ],
@@ -46087,7 +46372,7 @@
     },
     {
       "name": "Echinoderes truncatus/Echinoderes orestauri",
-      "abbrev": null,
+      "abbrev": "Etruncat",
       "attributes": {
         "1": [
           1
@@ -46198,6 +46483,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -46386,7 +46674,7 @@
     },
     {
       "name": "Echinoderes ulsanensis",
-      "abbrev": null,
+      "abbrev": "Eulsanen",
       "attributes": {
         "2": [
           1
@@ -46574,7 +46862,7 @@
     },
     {
       "name": "Echinoderes ultraabyssalis",
-      "abbrev": null,
+      "abbrev": "Eultraab",
       "attributes": {
         "1": [
           1
@@ -46829,7 +47117,7 @@
     },
     {
       "name": "Echinoderes unispinosus",
-      "abbrev": null,
+      "abbrev": "Eunispin",
       "attributes": {
         "1": [
           1
@@ -46981,6 +47269,10 @@
         "86": [
           2
         ],
+        "87": [
+          1,
+          2
+        ],
         "88": [
           2
         ],
@@ -47098,7 +47390,7 @@
     },
     {
       "name": "Echinoderes uozumii",
-      "abbrev": null,
+      "abbrev": "Euozumii",
       "attributes": {
         "1": [
           1
@@ -47230,6 +47522,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -47399,7 +47694,7 @@
     },
     {
       "name": "Echinoderes veracruzensis",
-      "abbrev": null,
+      "abbrev": "Everacru",
       "attributes": {
         "1": [
           1
@@ -47569,6 +47864,9 @@
         "86": [
           2
         ],
+        "87": [
+          1
+        ],
         "88": [
           1
         ],
@@ -47726,7 +48024,7 @@
     },
     {
       "name": "Echinoderes vulcanicus",
-      "abbrev": null,
+      "abbrev": "Evulcani",
       "attributes": {
         "1": [
           2
@@ -48000,7 +48298,7 @@
     },
     {
       "name": "Echinoderes wallaceae",
-      "abbrev": null,
+      "abbrev": "Ewallace",
       "attributes": {
         "1": [
           1
@@ -48132,6 +48430,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -48313,7 +48614,7 @@
     },
     {
       "name": "Echinoderes wilberti",
-      "abbrev": null,
+      "abbrev": "Ewilbert",
       "attributes": {
         "1": [
           1
@@ -48556,7 +48857,7 @@
     },
     {
       "name": "Echinoderes worthingi",
-      "abbrev": null,
+      "abbrev": "Eworthin",
       "attributes": {
         "1": [
           1
@@ -48841,7 +49142,7 @@
     },
     {
       "name": "Echinoderes xalkutaat",
-      "abbrev": null,
+      "abbrev": "Exalkuta",
       "attributes": {
         "1": [
           1
@@ -48995,6 +49296,9 @@
         ],
         "86": [
           2
+        ],
+        "87": [
+          1
         ],
         "88": [
           1
@@ -49172,7 +49476,7 @@
     },
     {
       "name": "Echinoderes xiphophorus",
-      "abbrev": null,
+      "abbrev": "Exiphoph",
       "attributes": {
         "1": [
           1
@@ -49429,7 +49733,7 @@
     },
     {
       "name": "Echinoderes xtabay",
-      "abbrev": null,
+      "abbrev": "Extabay",
       "attributes": {
         "1": [
           1
@@ -49669,7 +49973,7 @@
     },
     {
       "name": "Echinoderes yamasakii",
-      "abbrev": null,
+      "abbrev": "Eyamasak",
       "attributes": {
         "1": [
           1
@@ -49822,6 +50126,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -50022,7 +50329,7 @@
     },
     {
       "name": "Echinoderes zacharyi",
-      "abbrev": null,
+      "abbrev": "Ezachary",
       "attributes": {
         "1": [
           1
@@ -50190,7 +50497,7 @@
     },
     {
       "name": "Echinoderes zeppilliae",
-      "abbrev": null,
+      "abbrev": "Ezeppill",
       "attributes": {
         "1": [
           1,
@@ -50382,6 +50689,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -50564,7 +50874,7 @@
     },
     {
       "name": "Echinoderes sp.2 in Yamasaki et al. (2018)",
-      "abbrev": null,
+      "abbrev": "E2Ya2018",
       "attributes": {
         "2": [
           1
@@ -50675,6 +50985,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -50829,13 +51142,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E2Ya2018GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E2Ya2018HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E2Ya2018.html"
+          }
+        ]
       }
     },
     {
       "name": "Echinoderes sp.1 in Yamasaki et al. (2019)",
-      "abbrev": null,
+      "abbrev": "E1Ya2019",
       "attributes": {
         "1": [
           1
@@ -51093,13 +51420,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E1Ya2019GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E1Ya2019HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E1Ya2019.html"
+          }
+        ]
       }
     },
     {
       "name": "Echinoderes sp.2 in Yamasaki et al. (2019)",
-      "abbrev": null,
+      "abbrev": "E2Ya2019",
       "attributes": {
         "1": [
           1
@@ -51328,13 +51669,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E2Ya2019GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E2Ya2019HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E2Ya2019.html"
+          }
+        ]
       }
     },
     {
       "name": "Echinoderes sp.3 in Yamasaki et al. (2019)",
-      "abbrev": null,
+      "abbrev": "E3Ya2019",
       "attributes": {
         "1": [
           1
@@ -51554,13 +51909,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E3Ya2019GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E3Ya2019HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E3Ya2019.html"
+          }
+        ]
       }
     },
     {
       "name": "Echinoderes sp.3 in Herranz (2009)",
-      "abbrev": null,
+      "abbrev": "E3He2009",
       "attributes": {
         "1": [
           1
@@ -51692,6 +52061,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -51843,13 +52215,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E3He2009GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E3He2009HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E3He2009.html"
+          }
+        ]
       }
     },
     {
       "name": "Echinoderes sp.4 in Herranz (2009)",
-      "abbrev": null,
+      "abbrev": "E4He2009",
       "attributes": {
         "1": [
           1
@@ -52075,13 +52461,27 @@
         ]
       },
       "media": {
-        "images": [],
-        "info": []
+        "images": [
+          {
+            "label": "Distribution",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E4He2009GEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/E4He2009HAB.gif"
+          }
+        ],
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/E4He2009.html"
+          }
+        ]
       }
     },
     {
       "name": "Cephalorhyncha asiatica",
-      "abbrev": null,
+      "abbrev": "Casiatic",
       "attributes": {
         "1": [
           5
@@ -52356,7 +52756,7 @@
     },
     {
       "name": "Cephalorhyncha flosculosa",
-      "abbrev": null,
+      "abbrev": "Cfloscul",
       "attributes": {
         "1": [
           5
@@ -52616,7 +53016,7 @@
     },
     {
       "name": "Cephalorhyncha liticola",
-      "abbrev": null,
+      "abbrev": "Cliticol",
       "attributes": {
         "1": [
           5
@@ -52876,7 +53276,7 @@
     },
     {
       "name": "Cephalorhyncha nybakkeni",
-      "abbrev": null,
+      "abbrev": "Cnybakke",
       "attributes": {
         "1": [
           5
@@ -53141,7 +53541,7 @@
     },
     {
       "name": "Cephalorhyncha polunga",
-      "abbrev": null,
+      "abbrev": "Cpolunga",
       "attributes": {
         "1": [
           5
@@ -53294,6 +53694,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -53493,7 +53896,7 @@
     },
     {
       "name": "Cephalorhyncha teresae",
-      "abbrev": null,
+      "abbrev": "Cteresae",
       "attributes": {
         "1": [
           5
@@ -53729,7 +54132,7 @@
     },
     {
       "name": "Fissuroderes cthulhu",
-      "abbrev": null,
+      "abbrev": "Fcthulhu",
       "attributes": {
         "1": [
           7
@@ -53864,6 +54267,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -54055,7 +54461,7 @@
     },
     {
       "name": "Fissuroderes higginsi",
-      "abbrev": null,
+      "abbrev": "Fhiggins",
       "attributes": {
         "1": [
           7
@@ -54229,6 +54635,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -54430,7 +54839,7 @@
     },
     {
       "name": "Fissuroderes novaezealandia",
-      "abbrev": null,
+      "abbrev": "Fnovaeze",
       "attributes": {
         "1": [
           7
@@ -54624,6 +55033,9 @@
         "86": [
           2
         ],
+        "87": [
+          2
+        ],
         "88": [
           1
         ],
@@ -54809,7 +55221,7 @@
     },
     {
       "name": "Fissuroderes papai",
-      "abbrev": null,
+      "abbrev": "Fpapai",
       "attributes": {
         "1": [
           7
@@ -55079,7 +55491,7 @@
     },
     {
       "name": "Fissuroderes rangi",
-      "abbrev": null,
+      "abbrev": "Frangi",
       "attributes": {
         "1": [
           7
@@ -55210,6 +55622,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -55384,7 +55799,7 @@
     },
     {
       "name": "Fissuroderes sorenseni",
-      "abbrev": null,
+      "abbrev": "Fsorense",
       "attributes": {
         "1": [
           7
@@ -55537,6 +55952,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -55738,7 +56156,7 @@
     },
     {
       "name": "Fissuroderes thermoi",
-      "abbrev": null,
+      "abbrev": "Fthermoi",
       "attributes": {
         "1": [
           7
@@ -55912,6 +56330,9 @@
           1
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -56110,7 +56531,7 @@
     },
     {
       "name": "Meristoderes boylei",
-      "abbrev": null,
+      "abbrev": "Mboylei",
       "attributes": {
         "1": [
           3
@@ -56367,7 +56788,7 @@
     },
     {
       "name": "Meristoderes elleae",
-      "abbrev": null,
+      "abbrev": "Melleae",
       "attributes": {
         "1": [
           3
@@ -56541,6 +56962,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -56720,7 +57144,7 @@
     },
     {
       "name": "Meristoderes galatheae",
-      "abbrev": null,
+      "abbrev": "Mgalathe",
       "attributes": {
         "1": [
           4
@@ -56852,6 +57276,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -57022,7 +57449,7 @@
     },
     {
       "name": "Meristoderes glaber",
-      "abbrev": null,
+      "abbrev": "Mglaber",
       "attributes": {
         "1": [
           6
@@ -57154,6 +57581,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -57318,7 +57748,7 @@
     },
     {
       "name": "Meristoderes herranzae",
-      "abbrev": null,
+      "abbrev": "Mherranz",
       "attributes": {
         "1": [
           3
@@ -57578,7 +58008,7 @@
     },
     {
       "name": "Meristoderes imugi",
-      "abbrev": null,
+      "abbrev": "Mimugi",
       "attributes": {
         "1": [
           3
@@ -57802,7 +58232,7 @@
     },
     {
       "name": "Meristoderes macracanthus",
-      "abbrev": null,
+      "abbrev": "Mmacraca",
       "attributes": {
         "1": [
           4
@@ -58063,7 +58493,7 @@
     },
     {
       "name": "Meristoderes okhotensis",
-      "abbrev": null,
+      "abbrev": "Mokhoten",
       "attributes": {
         "1": [
           3
@@ -58319,7 +58749,7 @@
     },
     {
       "name": "Meristoderes taro",
-      "abbrev": null,
+      "abbrev": "Mtaro",
       "attributes": {
         "1": [
           1,
@@ -58565,7 +58995,7 @@
     },
     {
       "name": "Meristoderes sp. in Sorensen et al. (2012)",
-      "abbrev": null,
+      "abbrev": "M1So2013",
       "attributes": {
         "1": [
           3
@@ -58798,19 +59228,24 @@
         "images": [
           {
             "label": "Distribution",
-            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/MspGEO.gif"
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/M1So2013GEO.gif"
           },
           {
             "label": "Habitus",
-            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/MspHAB.gif"
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Echinoderidae/main/images/M1So2013HAB.gif"
           }
         ],
-        "info": []
+        "info": [
+          {
+            "label": "Info",
+            "url": "https://hrsymsk.github.io/DELTA_Echinoderidae/info_html/M1So2013.html"
+          }
+        ]
       }
     },
     {
       "name": "Polacanthoderes grzelakae",
-      "abbrev": null,
+      "abbrev": "Pgrzelak",
       "attributes": {
         "1": [
           7
@@ -58966,6 +59401,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -59173,7 +59611,7 @@
     },
     {
       "name": "Polacanthoderes martinezi",
-      "abbrev": null,
+      "abbrev": "Pmartine",
       "attributes": {
         "1": [
           7
@@ -59331,6 +59769,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
@@ -59548,7 +59989,7 @@
     },
     {
       "name": "Polacanthoderes shiraseae",
-      "abbrev": null,
+      "abbrev": "Pshirase",
       "attributes": {
         "1": [
           7
@@ -59686,6 +60127,9 @@
           2
         ],
         "86": [
+          2
+        ],
+        "87": [
           2
         ],
         "88": [
